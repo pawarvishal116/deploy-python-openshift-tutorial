@@ -1,2 +1,1 @@
-# deploy-python-openshift-tutorial
-deploy-python-openshift-tutorial
+# Sources with Dockerfile to assemble the docker image.
